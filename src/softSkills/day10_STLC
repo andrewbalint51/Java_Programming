@@ -1,0 +1,25 @@
+STLC steps are for every single User Story
+
+Step 3 - Confirm the QA environment is ready.
+
+Step 4 - Test execution
+
+    TE - Step 1 - manual testing - test and screenshot and attach to the test case for each and every step and attach
+         to TC.
+
+         if no bugs, move to automation, otherwise file bug report
+
+    Step 2 - Automation Testing -  Java, Selenium and other tools. follow bug lifecycle for any failures
+            attach to TC if failed
+
+Step 5 - Bug Lifecycle
+
+         Bug lifecycle starts - New ->assigned -> open->Fixed/deferred/Rejected-> retest -> close or reassign as
+                    needed
+
+                    Bug report - short description, and steps to duplicate. include screenshot, test date, and all pertinent
+                    information. set severity and priority level
+
+Step 6 - Test Cycle Closure
+
+        Done with user story because all test cases are done.

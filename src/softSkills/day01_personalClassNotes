@@ -1,0 +1,90 @@
+Soft Skills
+
+2 SOFTWARE TYPES
+
+System Software - operating systems -> Operating Systems
+
+Application Software - Web, Mobile, Desktop App, hybrid App
+    1) Web based Application - Cydeo, Youtube, Google, etc
+    2) Mobile App -  Music, Calculator
+    3) Desktop Application - Desktop Software
+    4) Hybrid/Cross Platform
+
+---------------------------------------------------------
+
+Hybrid/Cross Platform application can work on multiple platforms between desktop/mobile
+
+API is an Application Program Interface (Web server)
+
+API is like a waiter that takes an order from the UI and goes and gets it from from the kitchen (the database).
+
+3 software layers 1-UI -> 2- API -> 3-DB (Database)
+
+Full Stack Developer develops both front and backend
+Frontend Developer
+Backend Developer
+
+Same for testers
+Frontend and Backend testers
+Full Stack Testers
+
+------------------------------
+
+In a team 4 Devs and 2 SDETs
+
+1 Front End Dev
+1 Back End Dev
+2 Full Stack Devs
+2 Full Stack SDETS
+
+URL - Uniform Resource Locator
+
+Web Title - Title of website in browser tab
+Module - A unit or component of the software application
+    a. diff tabs on a website
+
+StackOverflow top website for getting questions answered
+
+www.w3schools.com is good as well
+
+Feature/Functionality - Software behavior , what can users DO with the Application?
+                      - What ACTIONS can a user perform on the app?
+
+Full stack SDETs test each function of a software
+
+Ex- Functionalities of YouTube
+    1. Search
+    2. Play Video
+    3. Stop Video
+    4. Login
+    5. Logout
+    6. Upload video, Etc
+
+Non Functions - HOW the software should behave/performance of the app - Tested by non-functional/performance testers
+
+Response Time
+Accessibility
+Installation
+Performance - Speed at which it operates
+Capacity - how much data can it handle
+Stress Level - Multiple users simultaneously
+
+IT Departments
+
+Development -> I am here. Developers and QA/SDETs
+Performance -> Performance Testers/Engineers/Etc
+Architecture -> Cloud part database, and connection to UI based on functions, DB, Etc
+Security -> CyberSecurity staff
+Operations -> DevOps team,
+Designers -> Design applications
+
+Business Dept/Roles
+PO - Product Owner
+PM - Project Manager
+BA - Business Analyst
+
+MY ROLE - Full Stack SDET performing Front End and Back End Testing on the Development Team of the IT Department
+    - Devs and SDETs will work together in this team
+    - 2 devs to 1 SDET ratio typically give or take 1 SDET as numbers increase, big team is 9 devs, 6 SDETs etc
+    - MY ROLE - test functionalities or features of the applications
+    - Functional Testing 1 UI testing 2 API Testing and 3 DB testing

@@ -1,0 +1,54 @@
+PO writes User Stories
+
+First meeting:
+Grooming Meeting
+    1)PO explains the user stories and Acceptance criteria to the dev team.
+    2) PO and dev team estimate work effort needed for US
+
+Attendees of grooming meeting: PO, Scrum Master, Dev team. Dev team asks questions and desired end state
+                                is that all dev team understands the various US. Also estimate how much time
+                                needed for completing User Stories
+
+Estimate time needed based on knowledge, experience, technical skill, complexity level
+
+1 Sprint = 1 week = 3 days for US
+1 Sprint = 2 weeks = 8 days for US
+1 Sprint = 4 weeks = 18 days for US
+Etc
+
+first and last days are for meetings. fibinachi sequence
+
+US should be small enough to complete in 1 sprint.
+
+time estimates are determined using hours, days or minutes. Or points. with 1 point = 1 hour, 2 hours, or any given
+amount of time.
+
+Most teams use "days" where 1 day is is 1 point. 2 points = 2 days 3 points = 3 days, etc.
+Some teams have point estimation rubric, based on knowledge, experience, and complexity
+
+all testers and devs agree on final points required to complete the US
+
+PO combines SDET and DEV estimated completion time. only giving estimation based on fibinachi sequence. if devs need 5
+and SDET needs 2 (combined to 7) then points moved from 7 to to 8 total to keep within fibbinachi sequence.
+
+Sprint Planning Meeting:
+1st day of sprint like grooming meeting
+
+PO, Scrum Master, Dev team. takes 1-2 hours for a 2 week sprint.
+
+Sprint backlog created (SB)
+
+Team Capacity - communicate all days off to dt
+
+Definition of Ready (DOR) - Did PO explain the US?
+                            Does the US have at least one defined AC?
+                            Is the US sized/estimated by the Dev team?
+                            Is US small enough to be completed during this sprint?
+
+Step 1: Creat Sprint Backlog
+Step 2: Identify days off and team capacity
+Step 3: PO moves US from PB into SB based on team capacity
+Step 4: SM starts the sprint, writes the sprint goal
+Step 5: US are assigned to dev team members or US are selected by team members themselves
+
+

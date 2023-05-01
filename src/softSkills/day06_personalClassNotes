@@ -1,0 +1,57 @@
+Agile Method:
+Release one short product at a time.
+short term projects
+keep customer happy with quick releases
+
+many branches/frameworks of agile methodology
+agile-scrum
+agile-kanban
+agile-XP
+
+scrum team roles: PO, dev team, Scrum master
+Scrum Artifact
+Scrum meetings (learn meeting names and what happens during these meetings
+
+US - User Story - As a <type of user> I want <functionality> so I can <business value>
+
+purpose to guide teams and show them who is using the application, what they are doing with it and why they are using
+it. short and simple requirment of software application
+PO writes them and share with dev team
+
+Independent among other stories
+Negotiable (enhance and rewrite)
+Valuable
+Estimable
+Small
+Testable
+
+diff developers own diff user stories and sometimes the stories act as a blocker so the dev cannot continue
+testers will estimate how much time they need to test each user story
+User story should be small enough to test and lock down in a max of 8 days or less.
+
+AC-Acceptance Criteria
+
+Example: User Story = "As a user, I need to reset my password, so I can change it for security purposes"
+
+AC is 1. enter new password 2. re-enter new password to confirm 3. click submit..
+
+clear cut condition to confirm when a user story is "done"
+COndition to mark US as DONE
+
+
+PB - Product Backlog - list of US that need to be completed. the PO is responsible fopr updating this and it is
+constantly changing. Place that PO lists US that need to be completed soon. US stories are listed based on priority
+level. PO decides that. Done in Jira.
+
+???????????????????????? product backlog vs Sprint backlog? ????????????????????????
+
+PI - Product Increment - completed US at the end of a sprint
+
+example: planned to complete 10 user stories, only completed 9. 9 is the PI.
+
+different companies have different release cycles. different amount of months. may be the same cycle, or may change
+for each release depending on functionality.
+
+Sprints - can be from 1-4 weeks of time at a time. 2 weeks is the most common.
+
+scrum team selects a sprint cycle before starting a new project and it will not change bfore completing the sprint

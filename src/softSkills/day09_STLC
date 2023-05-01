@@ -1,0 +1,43 @@
+STLC - Software Testing Lifecycle
+
+Step 1: Requirements Analysis
+    Analyze and understand requirements on a high level.
+    release plan meeting with PM - PM introduces release info, functions/requirments, testing strategy document
+
+    each release is a certain number of sprints
+
+    tst strategy document is a word document outlining testing scope, strategy, testing tools, and other things
+    testing environments
+    risks and mitigation
+    QAs study and learn what to work on
+
+    testing scope: Testing strategy, types, and tools
+
+    functionalities and due date will change a little, but most of it will remain the same
+    you can always go and check this document
+
+    Who are the testers?
+    What is the schedule?
+
+Step 2: Test Plan Creation
+
+    Document
+    SDETs get together and create it
+
+    contains test strategy info, QA role and responsibility, and any software or hardware resources that I need
+
+Step 3: Test Case Creation
+    Excel document
+    creat test case for every single user story
+
+    shows test data, expected result and other fields
+
+    ID - unique number
+    Description - short description of stuff
+    Environment - Which environment are we using?
+    Steps - small and detailed
+    Test Data - Data we input into application to test it
+    Expected result - What we want from the application
+
+    Actual result
+    we Pass/Fail it at the end

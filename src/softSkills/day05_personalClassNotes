@@ -1,0 +1,94 @@
+Software Development Methodology
+        A set of rules and principles to follow when developing applications
+        team size and structure, requirement format, project timeline, day to day operations,
+        amount of tasks, collab within the teams
+
+First Method - Waterfall
+        First software method ever used. do everything in a row and then go to the next step.
+        each tstep of SDLC divided into separate steps
+        Tons of planning before action
+        Each step must be complete before the next step can begin
+        Guarantees success when projects are small and requirments are clear
+        Each step is based on the outcome of the previous step
+
+        Cannot go back to fix bugs. That step is already done.
+
+Best method - Agile
+        Popular and effective Software Dev Methodology
+        Set short term goals
+        Welcomes feedback
+        lot of communication between team members
+        divide task into smaller chunks
+        requirement changes are welcomed
+        several meetings with the client throughout the year where client gives feedback
+        created in 2000
+        Close daily cooperation between business people and developers
+        cycle graphic. develop in a loop
+        cumulative outcomes vs one big final result
+
+        4 values and 12 principles
+
+        Values:
+            Individuals and Interactions OVER processes and tools
+            Customer Collaboration OVER Contract Negotiation
+            Working Software OVER comprehensive Documentation
+            Responding to a change OVER following a plan
+
+        Principles:
+            Satisfy the customer
+            welcome change
+            Deliver frequently
+            Work together
+            Trust and support
+            Face to Face conversation
+            Working software
+            Sustainable development
+            Continuous Attention
+            Maintain Simplicity
+            Self Organizing teams
+            Reflect and Adjust
+
+        Agile has many branches / types / frameworks
+
+        Scrum is the most common type of Agile framework
+        Work together, learn through experiences, self organize, reflect on wins and losses
+        Problems and who does what decided by team as a whole
+
+        What is Scrum?
+        3 Roles: Product Owner, Dev Team, Scrum Master
+        3 Artifacts: Product Backlog, Sprint backlog, Product Increment
+        5 Meetings: Grooming, Sprint Planning, Daily Standup, demo, retro
+
+        Scrum Team has 3 roles, PO, Dev team, and Scrum Master
+        dev team structure: 2-3 devs to 1 QA/SDET
+
+        Interview Question:
+        Can you tell me your team structure?
+        (they expect the scrum team structure)
+        I've been on a scrum team, 1 PO, 1 SM, 4 Devs and 2 SDETs
+
+        Sometime scrum team is structured differently:
+            for example: PO, SM, 3 devs, 1 SDET, 1 designer, 1 performance tester
+
+        PO - Product Owner: Bridge between the client and the dev team
+            decides release date and content
+            defines and prioritizes user stories
+            accepts or rejects work results
+            Maintains product backlog
+
+        SM - Scrum Master: Helps team to follow Scrum practices in a productive way
+            A facilitator, NOT a manager / process coach
+            removes impediments, problems, blockers
+            sheidls team from external disturbances
+            ensures good relationship between team members
+            Non technical person
+            Joins all scrum meetings
+            Agile Coaching
+            Tool Administration
+
+        Dev Team: Develops and tests the project
+        Completes tasks and assignments
+        Self organized and self managing team
+        Maintains sprint backlog
+        Optimal team size, 5-9 team members
+

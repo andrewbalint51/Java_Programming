@@ -1,0 +1,94 @@
+Dev Environment
+QA/Test Environment
+Staging/Pre-production Environment
+Production Environment
+
+1. What is software testing?
+        A process to assure the quality of the software
+        Measure a software's overall quality in it's correctness, completeness, performance and
+        functional and non functional attributes.
+        Identify bugs, reduce cost, and measure performance
+
+        : Process to confirm quality,
+
+2. What is to be tested in the SDLC process?
+        Documents are tested in the early steps to prevent bugs
+        Code
+        Functional and non functional aspects of the application
+        Functional/non functional/security
+
+        - documents - Manual
+        - code - automated
+        - software itself (function/nonfunctional) - manual/automated combo
+
+
+3. How is software testing done?
+
+        Manually, automated, or both
+
+
+4. Who performs testing?
+
+        - Client, developers, testers, business team,
+        - each step of SDLC requires testing and different people need to test the different objects (document,
+          code, software)
+        - business team members, designers, clients ->
+          developers -> code
+          SDETs and performance testers ->software itself
+          Client/stakeholders and End Users ->software prior to release
+
+        Manual      VS     Automated
+        Slow                 Fast
+        Unskilled            large data sets
+        Cheaper             Skilled engineers
+        no programming      automate test scripts
+                         less human error
+                         takes time to write
+                         cost efficient in the long run
+
+        benefits of testing - fast, reusable cost, reduction, improve security, customer satisfaction,
+                              reliable, enhance performance, repeatable, better quality software, cost effective
+
+
+
+5. Testing types in general during the SDLC?
+
+    -Static
+    -Dynamic
+
+6. What is Static Testing?
+
+    - Testing documents, checking them to prevent and avoid bugs
+    - also called "Verifcation Process"
+       get correct final doc
+    - SDETs prepare testing documents sometimes
+
+    review - informal meeting, find and eliminate errors or ambiguities in document
+    walkthrough - document owner explains content to check errors and develop a common udnerstanding, gather feedback
+    inspection - doc is finalized
+
+    prevent and avoid bugs
+
+7. How to perform static testing?
+
+        - review, walkthrough, inspection
+
+8. What is dynamic testing?
+
+        - testing the software and code itself
+        - validation process
+        - manual and automated
+
+        find and fix bugs
+
+9. What are the four testing levels?
+    - Unit testing - unit by unit, block by block, develoeprs in dev enrvironment
+    - Integration testing - developers, in dev environment, testing how units work together, sometimes done by SDET
+    - Systems Testing Function&Non-Functional - test system as a whole, find bugs, send back to devs, done in test
+                                                environment, every functionality, other nonfunctional testing done
+                                                by performance tester,
+    - UAT (User Acceptance Testing) - Testers, client and end user. retest in staging environment. Alpha and Beta
+                                      testing. Alpha done by testers, Beta done by client and end users. Alpha
+                                      is done in staging environment by technical people. Automated.
+
+Deploying or releasing the application occurs when final draft is transferred to production environment

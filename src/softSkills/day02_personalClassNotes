@@ -1,0 +1,36 @@
+Day 02
+
+Project Manager PM - Makes management decissions
+PO Project Owner- Gives SDET tasks and accepts or rejects finished tasks
+BA business analyst - helper for PO
+
+SDLC -
+1. Gather Information
+2. Designing
+3. Developing
+4. Testing
+5. Production
+6. Maintenance
+
+
+PO is the middle man between client and developers
+
+requirement gathering for the project - PO, PM, and BA, and client -> output SRS
+
+SRS - Software Requirement Specification
+MR - Market Requirement
+FR - Functional Requirements
+
+Designing - Business team, client/stakeholders, Architects, developers - SDS/ App model
+
+Development - Developers ( based on SRS and SDS docs) -> initial version
+
+Testing - test, send back, retest, until ready -> bug free, ready to be released app
+
+DEploy, rel;easse, produce
+
+maintain
+
+Dev environment, QA environment, Staging environment (demonstrate to client), Production environment
+
+Tell me about yourself -> nicknames, IT experience, etc

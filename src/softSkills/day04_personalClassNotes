@@ -1,0 +1,20 @@
+White box testing - (also call glass box testing). requires good knowledge of internal structure of
+                    application. white box graphic. White box testing is unit and integration testing.
+                    done by devs. they know or "can see" what is inside the "box"
+Black Box Testing - testing without technical knowledge of application or code structure. done by manual
+                    testers, clients, and end users. Black box means they don't know or cannot "see" what's
+                    inside the "box." Zero technical knowledge.
+Gray Box Testing - testing with partial knowledge of internal code structure. you can "partially see" inside
+                   the box. automation engineers, performance testers and security engineers. the minute you use
+                   code and automate you do gray box testing. Alpha UAT testing if done by someone with knowledge
+                   of the internal code structure, it is gray box testing
+
+Unit Testing - Component testing, testing code, done by devs. level 1 testing
+
+Integration Testing - level 2 testing.
+
+System Testing - SDET/QA validates all functions. UI, API and DB.
+            TWO PARTS - Functional and Non Functional
+
+UAT Testing - Staging enviroment. A/B testing. Client verifies. last step before production
+            TWO PARTS - Alpha and Beta testing

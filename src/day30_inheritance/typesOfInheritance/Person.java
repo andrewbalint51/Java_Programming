@@ -72,7 +72,7 @@ public class Person {
     @Override
     public String toString() {
         return getClass().getSimpleName()+"{" +
-                "name='" +  + '\'' +
+                "name='" + name + '\'' +
                 ", age=" + age +
                 ", gender=" + gender +
                 ", DOB=" + DOB +

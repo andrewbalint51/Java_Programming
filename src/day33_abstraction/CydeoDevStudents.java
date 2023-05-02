@@ -65,4 +65,26 @@ public final class CydeoDevStudents extends Person{
         }
         this.batchNumber = batchNumber;
     }
+
+    @Override
+    public void eat(String food) {
+        System.out.println(getName()+" is eating "+programmingLanguage);
+    }
+
+    @Override
+    public void drink(String drink) {
+        System.out.println(getName()+" is drinking "+programmingLanguage);
+    }
+
+    @Override
+    public String toString() {
+        return "CydeoDevStudents{Name='" + getName() + '\'' +
+                ", age=" + getAge() +
+                ", gender=" + getGender() +
+                ", DOB=" + getDOB() +
+                "id='" + id + '\'' +
+                ", batchName='" + batchName + '\'' +
+                ", batchNumber=" + batchNumber +
+                '}';
+    }
 }

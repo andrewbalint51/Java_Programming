@@ -2,7 +2,7 @@ package day33_abstraction;
 
 import day30_inheritance.typesOfInheritance.Person;
 
-import java.time.LocalDateTime;
+import java.time.LocalDate;
 
 public final class CydeoDevStudents extends Person{
 
@@ -12,7 +12,7 @@ public final class CydeoDevStudents extends Person{
 
     public static final String programmingLanguage;
 
-    public CydeoDevStudents(String name, char gender, LocalDateTime DOB, String id, String batchName, int batchNumber) {
+    public CydeoDevStudents(String name, char gender, LocalDate DOB, String id, String batchName, int batchNumber) {
 
 
         super(name, gender, DOB);
@@ -24,10 +24,9 @@ public final class CydeoDevStudents extends Person{
 
 
 
-        this.id = id;
-        this.batchName = batchName;
-        this.batchNumber = batchNumber;
-
+        this.id=id;
+        this.setBatchName(batchName);
+        this.setBatchNumber(batchNumber);
 
     }
 

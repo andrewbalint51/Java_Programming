@@ -1,13 +1,13 @@
 package day30_inheritance.typesOfInheritance;
 
-import java.time.LocalDateTime;
+import java.time.LocalDate;
 
 public class Employee extends Person{
 
     private String employeeID, jobTitle;
     private int salary;
 
-    public Employee(String name, char gender, LocalDateTime DOB, String employeeID, String jobTitle, int salary) {
+    public Employee(String name, char gender, LocalDate DOB, String employeeID, String jobTitle, int salary) {
         super(name, gender, DOB);
         this.employeeID = employeeID;
         this.jobTitle = jobTitle;

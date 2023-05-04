@@ -21,10 +21,14 @@ Step 1: Requirements Analysis
 
 Step 2: Test Plan Creation
 
-    Document
+    Word Document
     SDETs get together and create it
 
     contains test strategy info, QA role and responsibility, and any software or hardware resources that I need
+
+    Test plan doc is project level and carried by QA team - How to test and little details
+    Test Strategy doc is organizational level and carried by PM - scope of test, risk and higher level objectives
+
 
 Step 3: Test Case Creation
     Excel document

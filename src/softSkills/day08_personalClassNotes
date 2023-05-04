@@ -1,14 +1,26 @@
 Daily Stand Up:
 
-what will I do todfay, what will I do tomorrow, what are my blockers? very quick meeting
+what did I do yesterday, what will I do today, what are my blockers? very quick meeting
 
 Demo Meeting:
 
 PO hosts and accepts or rejects US based on Definition of Done (DOD).
 identify with US are not done or if client needs to update them
 
+DOD is standard conditions that determine whether a US is done:
+    Depends on organization but example follows
+    -Code produced
+    -code reviewed
+    -any build/deployment changes are implemented/documented
+    -positive and negative scenarios covered for each story
+    -bugs' status is clearly identified
+
+    US is rejected if one of the criteria is not met.
+
 each dev team member can demo their own task OR one dev team member can lead the demo and it switches after each sprint
 Move back to sprint backlog if not done
+
+Incomplete US not accepted as done are moved back to product backlog
 
 Retro meeting: Led by SM
 

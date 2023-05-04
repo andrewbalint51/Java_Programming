@@ -1,8 +1,9 @@
-package day35_polymorphism;
+package day35_polymorphism.deviceTask;
 
-public class Iphone extends Phone implements Downloadable, AppleApps{
+public class Samsung extends Phone implements Downloadable, AndroidApps {
 
-    public Iphone(String brand, String model, double price, String color, String size, boolean hasBattery, boolean hasPowerButton) {
+    public Samsung(String brand, String model, double price, String color, String size, boolean hasBattery, boolean hasPowerButton) {
+
         super(brand, model, price, color, size, hasBattery, hasPowerButton);
     }
 

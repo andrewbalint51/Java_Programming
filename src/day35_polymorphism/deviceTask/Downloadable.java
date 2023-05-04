@@ -1,4 +1,4 @@
-package day35_polymorphism;
+package day35_polymorphism.deviceTask;
 
 public interface Downloadable {
 

@@ -1,7 +1,8 @@
-package day35_polymorphism;
+package day35_polymorphism.deviceTask;
 
-public class Google extends Phone implements Downloadable, AndroidApps{
-    public Google(String brand, String model, double price, String color, String size, boolean hasBattery, boolean hasPowerButton) {
+public class Iphone extends Phone implements Downloadable, AppleApps{
+
+    public Iphone(String brand, String model, double price, String color, String size, boolean hasBattery, boolean hasPowerButton) {
         super(brand, model, price, color, size, hasBattery, hasPowerButton);
     }
 

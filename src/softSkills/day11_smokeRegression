@@ -1,7 +1,7 @@
 Regression Testing - Test all test cases from beginning. Done at the end of each release cycle after the specified
                      number of sprints.
 
-                     can be major (only pefformed before each release) or minor (performed once a week to make
+                     can be major (only performed before each release) or minor (performed once a week to make
                      sure everything's on track. performed every day, once a week, or end of each sprint.
 
                      interviews and practice project focus on major regression testing. most common.
@@ -9,13 +9,13 @@ Regression Testing - Test all test cases from beginning. Done at the end of each
                      What affects regression testing run times?
                         1. UI, DB, or API? what type of test case
                         2. Using a virtual machine? (VM) How many virtual machines are you using?
-                            (Using VMs to run mutliple test cases in parallel fashion)
+                            (Using VMs to run multiple test cases in parallel fashion)
                             Also used to run in different OS's and browsers.
                         3. Number of test cases
 
                      INTERVIEW QUESTION: How did you run your regression testing at your last role?
                         "We run regression testing to make sure every new functionality work with the older ones,
-                        and we run it before every release, about every 3 months or so. There are around 700-300 TC's.
+                        and we run it before every release, about every 3 months or so. There are around 700-3000 TC's.
                         The automated test cases are run with 3 VMs in parallel and takes about 1 hour, and non
                         automated TC's are run by all testers and takes about a week of time." Good to use fewer details,
                         unless you want to explain "why"
@@ -90,8 +90,8 @@ Other Testing - Cross Browser testing - daily and happening during automation as
 
 Day to Day Activities - Shift starts at 8 AM
                         Check smoke test report from Jenkins
-                        Jira board to prep for daily standup meeting
-                        Daily Standup meeting
+                        Jira board to prep for daily stand-up meeting
+                        Daily Stand-up meeting
 
                         Remainder of Day
 

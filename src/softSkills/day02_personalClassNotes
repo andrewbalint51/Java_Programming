@@ -15,7 +15,7 @@ SDLC -
 
 PO is the middle man between client and developers
 
-requirement gathering for the project - PO, PM, and BA, and client -> output SRS
+requirement gathering for the project - PO, PM, and BA, and client -> output (SRS)
 
 SRS - Software Requirement Specification
 MR - Market Requirement
@@ -23,7 +23,7 @@ FR - Functional Requirements
 
 Designing - Business team, client/stakeholders, Architects, developers - SDS/ App model
 
-Development - Developers ( based on SRS and SDS docs) -> initial version
+Development - Developers ( based on SRS and SDS docs) -> initial version (SDS) Software Design Specification
 
 Testing - test, send back, retest, until ready -> bug free, ready to be released app
 

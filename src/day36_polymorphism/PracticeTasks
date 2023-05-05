@@ -29,9 +29,10 @@
 
 			1.3 Write a program that can display the car that has the highest price
 
-			1.3 Write a program that can display the car that has the lowest price
+			1.4 Write a program that can display the car that has the lowest price
 
-			1.4 Create an arraylist of Tesla named teslaCars and store all the tesla cars from cars array to the arrayList:
+			1.5 Create an arraylist of Tesla named teslaCars and store all the tesla cars from cars array to the
+			    arrayList:
 						ArrayList<Tesla> teslaCars = new ArrayList<>()
 
 

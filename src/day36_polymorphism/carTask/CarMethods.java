@@ -2,6 +2,8 @@ package day36_polymorphism.carTask;
 
 import day34_inheritance.carTask.*;
 
+import java.util.ArrayList;
+
 public class CarMethods {
 
     public static void main(String[] args){
@@ -24,7 +26,10 @@ public class CarMethods {
                 new Tesla("Tesla","Model X", 2014, 48000,"Blue"),
         };
 
-        eligibleForRecall(cars);
+        //eligibleForRecall(cars);
+        //highestPrice(cars);
+        //lowestPrice(cars);
+        //onlyTeslas(cars);
     }
 
     public static void eligibleForRecall(Car[] cars){
@@ -54,4 +59,58 @@ public class CarMethods {
     }
 
 
+    public static void highestPrice(Car[] cars){
+        Car expensive=null;
+        double highestPrice=0;
+        for(Car each : cars){
+            if(each.getPrice()>highestPrice){
+                expensive=each;
+                highestPrice=each.getPrice();
+            }
+        }
+
+        System.out.println(expensive);
+
+        /*
+        1.3 Write a program that can display the car that has the highest price
+         */
+
+    }
+
+    public static void lowestPrice(Car[] cars){
+
+        Car cheap=null;
+        double lowestPrice=1000000;
+        for(Car each : cars){
+            if(each.getPrice()<lowestPrice){
+                cheap=each;
+                lowestPrice=each.getPrice();
+            }
+        }
+
+        System.out.println(cheap);
+
+        /*
+        1.3 Write a program that can display the car that has the lowest price
+         */
+    }
+
+    public static void onlyTeslas(Car[] cars){
+
+        ArrayList<Tesla> teslaCars = new ArrayList<>();
+
+        for(Car each : cars){
+            if(each.getMake().equals("Tesla")){
+                teslaCars.add((Tesla) each);
+            }
+        }
+
+        System.out.println(teslaCars);
+
+        /*
+        1.4 Create an arraylist of Tesla named teslaCars and store all the tesla cars from cars array to the
+			    arrayList:
+						ArrayList<Tesla> teslaCars = new ArrayList<>()
+         */
+    }
 }

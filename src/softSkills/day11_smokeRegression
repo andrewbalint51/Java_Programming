@@ -103,3 +103,11 @@ Intro to Jira - Jira vs Jira Xray
 
                 Jira - Only story and bug
                 Jira Xray - Story, Bug, Test, Test set, test execution, task, pre-condition
+
+Bug Report
+    1. Bug reproduction steps
+    2. Expected result
+    3. Actual result
+    4. test data
+    5. Environment
+    6. Browser

@@ -66,7 +66,7 @@ public class Pizza {
     @Override
     public boolean equals(Object obj) {
         if( !(obj instanceof Pizza) ){
-            System.out.println("Invalid Object added: "+obj);
+            System.err.println("Invalid Object: "+obj);
             System.exit(1);
         }
 

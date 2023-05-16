@@ -25,3 +25,7 @@ LinkedHashSet - Child of HashSet. No dupes. Keeps the insertion order. Accepts n
 TreeSet -  maintains sorted ascending order. CANNOT ACCEPT NULL.
 
 Can use for each loop with sets, but nothing involving index numbers.
+
+Lists accept dupes, have index and keeps order.
+
+Set does not accept dupes, no index numbers, doesn't keep order

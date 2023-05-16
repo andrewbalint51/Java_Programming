@@ -6,3 +6,13 @@ Collections
         3. Vector - Array based class. Synchronized, where ArrayList is not. Thread safety achieved. Otherwise same as
                     ArrayList.
         4. Stack - Same as Vector, but last in first out. LIFO. pop() method.
+
+
+Synchronized - One thread being executed at a time
+Process - execution instance of a program application
+Thread - A sequence of executions within a process
+Multi-Threading - Multiple thread objects executed at the same time
+Multi-tasking - two or more processes are running
+
+Set vs List
+

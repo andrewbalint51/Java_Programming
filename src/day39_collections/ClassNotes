@@ -18,4 +18,10 @@ Set vs List
 
 Set does not have index and does not allow duplicates
 
-HashSet maintains random order
+HashSet maintains random order, accepts null objects
+
+LinkedHashSet - Child of HashSet. No dupes. Keeps the insertion order. Accepts null.
+
+TreeSet -  maintains sorted ascending order. CANNOT ACCEPT NULL.
+
+Can use for each loop with sets, but nothing involving index numbers.

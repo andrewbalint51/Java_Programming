@@ -1,0 +1,8 @@
+Collections
+
+    Lists: has Index number, allows duplicates
+        1. ArrayList - Array based class. Accessing elements are faster
+        2. LinkedList - Node Based class. adding/removing is faster (each node has two pointers)
+        3. Vector - Array based class. Synchronized, where ArrayList is not. Thread safety achieved. Otherwise same as
+                    ArrayList.
+        4. Stack - Same as Vector, but last in first out. LIFO. pop() method.

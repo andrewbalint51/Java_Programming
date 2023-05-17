@@ -51,4 +51,6 @@ Step 3: PO moves US from PB into SB based on team capacity
 Step 4: SM starts the sprint, writes the sprint goal
 Step 5: US are assigned to dev team members or US are selected by team members themselves
 
+Team Velocity is the average effort we HAVE been doing. vs Team Capacity which is our max ability.
+
 

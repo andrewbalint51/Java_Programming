@@ -1,0 +1,15 @@
+Queue - Does not have index number, Allows dupes, FIFO
+    LinkedList Implements List AND queue and has index numbers!!
+    Queue has poll() method returns and removes first inserted object.
+
+    PriorityQueue (C) Random order, does not accept null
+    ArrayDequeue (C) Keeps insertion order, does not accept null
+    LinkedList (C) Keeps insertion order, does accept null, has index number
+
+
+Can convert any collection to an array.
+
+Set no dupes, no order
+List dupes and order
+Queue represent a group of objects before they are processed
+

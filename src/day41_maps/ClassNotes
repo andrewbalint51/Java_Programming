@@ -1,0 +1,4 @@
+HashMap - random order, accepts null (only one null key) Only one null key will be accepted
+LinkedHashmap - maintains insertion order, accepts null (one null key)
+TreeMap - Sorted ascending order, does not accept null keys, value can be null
+HashTable - maintains random order, does not accept null, synchronized

@@ -7,6 +7,8 @@ public class IterablePractice {
     public static void main(String[] args) {
 
 
+        List<Object> linkedList = new LinkedList<>();
+
         List<String> names = new ArrayList<>();
         names.add("John");
         names.add("Ahmed");

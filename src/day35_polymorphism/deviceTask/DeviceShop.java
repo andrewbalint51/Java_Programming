@@ -38,6 +38,8 @@ public class DeviceShop {
         System.out.println(DK2);
         System.out.println(DK1);
 
+
+
     }
 
 }
